@@ -1,6 +1,5 @@
 fastapi
-tflite-runtime
 uvicorn
 pillow
 numpy
-python-dotenv
+tflite-runtime==2.11.0
