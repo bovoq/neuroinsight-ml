@@ -22,7 +22,7 @@ app.add_middleware(
 )
 
 # Load model ONNX
-onnx_session = ort.InferenceSession("./output/model.onnx")
+onnx_session = ort.InferenceSession("./model/model.onnx")
 input_name = onnx_session.get_inputs()[0].name
 img_size = (150, 150)
 class_labels = ['glioma', 'meningioma', 'notumor', 'pituitary']
