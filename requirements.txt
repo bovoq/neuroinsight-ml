@@ -3,8 +3,6 @@ uvicorn
 pillow
 numpy
 keras
-keras2onnx 
-onnx
 onnxruntime
 python-dotenv
 python-multipart
