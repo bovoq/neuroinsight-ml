@@ -2,4 +2,9 @@ fastapi
 uvicorn
 pillow
 numpy
-tflite-runtime
+keras
+keras2onnx 
+onnx
+onnxruntime
+python-dotenv
+python-multipart
