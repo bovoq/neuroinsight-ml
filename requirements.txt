@@ -1,4 +1,6 @@
 fastapi
+tensorflow-lite
+uvicorn
 pillow
 numpy
 python-dotenv
