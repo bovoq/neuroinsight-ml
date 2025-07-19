@@ -1,5 +1,5 @@
 fastapi
-tensorflow-lite
+tflite-runtime
 uvicorn
 pillow
 numpy
