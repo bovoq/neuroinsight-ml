@@ -1,5 +1,4 @@
 fastapi
-tensorflow
 pillow
 numpy
 python-dotenv
