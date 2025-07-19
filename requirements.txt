@@ -2,7 +2,6 @@ fastapi
 uvicorn
 pillow
 numpy
-keras
 onnxruntime
 python-dotenv
 python-multipart
